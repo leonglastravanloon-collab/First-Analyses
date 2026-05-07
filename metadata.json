@@ -1,0 +1,6 @@
+{
+  "name": "AEX Market Intelligence",
+  "description": "Een schaalbaar dashboard voor live AEX beurskoersen en toekomstige AI-gestuurde marktanalyses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Real-time data visualization", "Stock market monitoring"]
+}
